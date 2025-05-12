@@ -9,6 +9,10 @@ ATIVANDO AMBIENTE VIRTUAL
 
 .\venv\Scripts\Activate.ps1
 
+PARA DESATIVAR O AMBIENTE VIRTUAL:
+
+ deactivate
+
 INSTALAÇÃO DE DEPENDÊNCIAS DENTRO DA APLICAÇÃO
 
 pip install fastapi
@@ -28,3 +32,8 @@ GET  ->  /tarefas/{id} -> Retorna uma tarefa específica
 POST ->  /tarefas -> Cria uma nova tarefa 
 PUT  ->  /tarefas/{id} -> Atualiza uma tarefa
 DELETE -> /tarefas/{id} -> Remove uma tarefa
+
+
+## Link do Youtube com o vídeo:
+
+https://www.youtube.com/watch?v=fdlCVa9-IOE
